@@ -45,12 +45,12 @@ main {
 
 main > .intro {
     font-family: 'Text Me One', sans-serif;
-	font-size: 6em;
+	font-size: 8em;
 	font-weight: 600;
 }
 
 main > .tagline {
-	font-size: 1.5rem;
+	font-size: 2rem;
 	margin: 1.5rem 0;
 	font-weight: 100;
 }
